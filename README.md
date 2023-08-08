@@ -1,6 +1,8 @@
 # Intro-to-Python-1051-Final-Project
 Final Project for Python 1058
 
+<img width="994" alt="Screenshot 2023-08-08 at 2 41 18 PM" src="https://github.com/noel-chacko/pythonClickerGame/assets/69741906/90fe5234-89bb-4dad-b4bd-f6b969074c3a">
+
 Group members:
 Noel Chacko
 Shyqyri Dogjani
